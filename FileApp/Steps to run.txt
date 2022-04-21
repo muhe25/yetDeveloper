@@ -1,6 +1,6 @@
 For running this rmi Music play,  
-First Add a package   open the folder jaco.mp3.player.MP3Player  go to lib  then 
-copy to  C:\Program Files\Java\jdk1.8.0_321\jre\lib\ext.
+First Add the package   jaco.mp3.player.MP3Player .jar 
+copy to  C:\Program Files\Java\jdk1.8.0_321\jre\lib\ext. then past(ctrl+v)
   
 1) compile all the java files  
   
